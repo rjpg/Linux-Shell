@@ -1,2 +1,4 @@
 # Linux-Shell
-Linux Shell in C
+
+Unix command shell made in C.
+Developed in 2000.
